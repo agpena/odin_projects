@@ -12,8 +12,34 @@ form {
 position: absolute;
 top: 55%;
 left: 55%;
-height: 150px;
-width: 300px;
 margin-top: -150px;
 margin-left: -235px;
 }
+
+#nav li {
+	display: inline;
+	padding-right: 20px;
+	float: right;
+	padding-top: 10px;
+	line-height: 30px
+	/* keeps nav list in line 
+	with eachother */
+}
+
+#nav div a {
+	color: white;
+}
+
+div {
+    height: 30px;
+    width: 75px;
+    border-color: #6495ED;
+    background-color: #000080;
+    border-radius: 5px;
+    text-align: center;  
+}
+
+a {
+	text-decoration: none;
+}
+
