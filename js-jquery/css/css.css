@@ -1,0 +1,21 @@
+td {
+  color: red;
+  height: 20px;
+  width: 20px;
+  background-color: red;
+}
+
+#button {
+  color: white;
+  background-color: blue;
+  height: 40px;
+  width: 60px;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 40px;
+}
+
+.grid {
+  height: 850px;
+  width: 850px;
+}
